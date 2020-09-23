@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+seaborn = "*"
+jupyter = "*"
+scipy = "*"
+h5py = "*"
+tensorflow = "2"
+keras = "*"
+pillow = "*"
+librosa = "*"
+nltk = "*"
+openpyxl = "*"
+xlrd = "*"
+tensorflow-datasets = "*"
+hiplot = "*"
+hyperopt = "*"
+
+[requires]
+python_version = "3.8"
